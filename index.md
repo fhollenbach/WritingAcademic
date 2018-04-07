@@ -13,10 +13,18 @@ This website will host a number of exercises and guides for graduate students to
 ### An (incomplete) list of Academic Guides to writing in political science (in alphabetical order of authors):
 
 [How to Write -- by Macartan Humphreys](http://www.macartan.nyc/teaching/on-writing/)
+
+
 [How to Write an Empirical Social Science Paper -- by Kosuke Imai](https://imai.princeton.edu/teaching/files/HowToPaper.pdf)
+
+
 [How to Write a Publishable Paper as a Class Project -- by Gary King](https://gking.harvard.edu/papers)
+
+
 [Three Templates for Introductions to Political Science
 Articles -- by Andrew Little](http://www.andrewtlittle.com/papers/little_intros.pdf)
+
+
 [Caltech Rules For Writing Papers -- by Barry Weingast](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 
 
