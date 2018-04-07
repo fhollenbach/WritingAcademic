@@ -1,3 +1,8 @@
+---
+title: Writing: Exercises and Guides to become a better writer
+description: How to learn to write ~~good~~ well
+---
+
 # Academic Writing: Exercises and Guides to become a better writer
 
 This website will host a number of exercises and guides for graduate students to improve their writing. The website will (hopefully) become a resource for professors, teachers, and graduate students to learn and practice how to write ~~good~~ well. It will include practice problems for parts of the paper writing process, e.g., writing introductions, abstracts, framing, etc. Much of these guides and exercises will of course build on others. 
