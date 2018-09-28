@@ -3,35 +3,34 @@ title: Writing: Exercises and Guides to become a better writer
 description: How to learn to write ~~good~~ well
 ---
 
-# Academic Writing: Exercises and Guides to become a better writer
+# Academic Writing: Exercises and Guides on Writing
 
-This website will host a number of exercises and guides for graduate students to improve their writing. The website will (hopefully) become a resource for professors, teachers, and graduate students to learn and practice how to write ~~good~~ well. It will include practice problems for parts of the paper writing process, e.g., writing introductions, abstracts, framing, etc. Much of these guides and exercises will of course build on others. 
+This website will host a number of exercises and guides for graduate (and undergraduate) students to improve their writing. The website will (hopefully) become a resource for professors, teachers, and graduate students to learn and practice how to write ~~good~~ well. It will include practice problems for parts of the paper writing process, e.g., writing introductions, abstracts, framing, etc. Much of these guides and exercises will of course build on the work of others. __The website is work in progress and suggestions for additions or improvements are always welcome.__ 
 
 ## Guidelines for writing well
 [This page contains helpful tips, assembled from a variety of sources](pages/Tips.html)
 
 ## Getting Started, Links to helpful resources:
 
+### An (Incomplete) List of Academic Guides to Writing in Political Science (in Alphabetical Order):
 
-### An (incomplete) list of Academic Guides to writing in political science (in alphabetical order):
+[Some Tips on Writing Style and Avoiding Common Errors in Political Science Papers -- by Prof. Patrick Egan](https://www.dropbox.com/s/zrbmsq3a0es6f3a/Some%20Tips%20on%20Writing%20Style%20and%20Avoiding%20Common%20Errors%20in%20Academic%20Papers.pdf?dl=0)
 
-[How to Write -- by Macartan Humphreys](http://www.macartan.nyc/teaching/on-writing/)
+[Writing as a Social Scientist -- by David Eil](https://www.dropbox.com/s/0yu02c2vgk10t32/Writing%20Class%20Twitter%20Copy.pptx?dl=0)
 
+[How to Write -- by Prof. Macartan Humphreys](http://www.macartan.nyc/teaching/on-writing/)
 
-[How to Write an Empirical Social Science Paper -- by Kosuke Imai](https://imai.princeton.edu/teaching/files/HowToPaper.pdf)
+[How to Write an Empirical Social Science Paper -- by Prof. Kosuke Imai](https://imai.princeton.edu/teaching/files/HowToPaper.pdf)
 
-
-[How to Write a Publishable Paper as a Class Project -- by Gary King](https://gking.harvard.edu/papers)
-
+[How to Write a Publishable Paper as a Class Project -- by Prof. Gary King](https://gking.harvard.edu/papers)
 
 [Three Templates for Introductions to Political Science
-Articles -- by Andrew Little](http://www.andrewtlittle.com/papers/little_intros.pdf)
+Articles -- by Prof. Andrew Little](http://www.andrewtlittle.com/papers/little_intros.pdf)
+
+[Caltech Rules for Writing Papers -- by Prof. Barry Weingast](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 
 
-[Caltech Rules For Writing Papers -- by Barry Weingast](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
-
-
-### Books on academic writing:
+### (Some) Books on Academic Writing:
 
 Fowler, Alastair. 2006. How to Write. Oxford University Press: Oxford, UK.
 
