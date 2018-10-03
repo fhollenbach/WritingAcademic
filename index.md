@@ -5,7 +5,7 @@ description: How to learn to write ~~good~~ well
 
 # Academic Writing: Exercises and Guides on Writing
 
-This website will host a number of exercises and guides for graduate (and undergraduate) students to improve their writing. The website will (hopefully) become a resource for professors, teachers, and graduate students to learn and practice how to write ~~good~~ well. It will include practice problems for parts of the paper writing process, e.g., writing introductions, abstracts, framing, etc. Much of these guides and exercises will of course build on the work of others. __The website is work in progress and suggestions for additions or improvements are always welcome.__ 
+This website will host a number of exercises and guides for graduate (and undergraduate) students to improve their writing. The website will (hopefully) become a resource for professors, teachers, and graduate students to learn and practice how to write ~~good~~ well. In the future, I will add practice problems for parts of the paper writing process, e.g., writing introductions, abstracts, framing, etc. Much of these guides and exercises build, of course, on the work of others. __This website is work in progress. Suggestions for additions or improvements are always welcome.__ 
 
 ## Guidelines for writing well
 [This page contains helpful tips, assembled from a variety of sources](pages/Tips.html)
