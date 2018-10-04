@@ -33,6 +33,8 @@ Caveat: most of these guidelines are written with (quantitative) empirical paper
 [Three Templates for Introductions to Political Science
 Articles -- by Prof. Andrew Little](http://www.andrewtlittle.com/papers/little_intros.pdf)
 
+[Improving your academic writing: My top 10 tips -- by Prof. Raul Pacheco-Vega](http://www.raulpacheco.org/2013/02/improving-your-academic-writing-my-top-10-tips/)
+
 [Caltech Rules for Writing Papers -- by Prof. Barry Weingast](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 
 
